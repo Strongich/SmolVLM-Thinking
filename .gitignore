@@ -6,7 +6,7 @@ saved_results/
 VLMEvalKit/
 .claude/
 .vscode/
-src/datasets/llava_cot_images/
+src/data_loaders/llava_cot_images/
 SmolVLM-Thinking/
 .venv/
 *.arrow
@@ -220,4 +220,4 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
-.streamlit/secrets.toml
+.streamlit/secrets.tomlCLAUDE.md
